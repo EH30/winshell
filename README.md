@@ -18,8 +18,9 @@ Console Example
 Command Example: python winshell.py -l 127.0.0.1 -p 9999 --console 1   
 --------------------------------------------------------------------------------   
 <img src="https://github.com/EH30/winshell/blob/master/winshells_console_example.JPG" >   
-
-
+   
+   
+   
 
 Generating exe file Example
 --------------------------------------------------------------   
