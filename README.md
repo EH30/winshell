@@ -15,7 +15,7 @@ Run this command it will open console for Listening: python winshell.py -l [You'
 
 Console Example
 ---------------------------------------------   
-Command Example: python winshell.py -l [127.0.0.1] -p [9999] --console 1
+Command Example: python winshell.py -l 127.0.0.1 -p 9999 --console 1   
 --------------------------------------------------------------------------------   
 <img src="https://github.com/EH30/winshell/blob/master/winshells_console_example.JPG" >   
 
@@ -23,7 +23,10 @@ Command Example: python winshell.py -l [127.0.0.1] -p [9999] --console 1
 
 Generating exe file Example
 --------------------------------------------------------------   
-Command Example: python winshell.py -l [You're Host/IP] -p [You're Port] --name [You're file Name]   
+Command Example: python winshell.py -l 127.0.0.1 -p 9999 --name shell   
 ----------------------------------------------------------------------------------------------------   
+<img src="https://github.com/EH30/winshell/blob/master/winshell_exe_shell_example.JPG">   
+
+<img src="https://github.com/EH30/winshell/blob/master/winshells_console_example.JPG">   
 
 
