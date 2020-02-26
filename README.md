@@ -10,11 +10,11 @@ I'm not responsible for your actions
 
 Download and Run
 ------------------------
-git clone https://github.com/EH30/winshell
-cd winshell
-pip install -r requirements.txt
-Genrate exe file: python winshell.py -l [You're Host/IP] -p [You're Port] --name [You're file Name]
-Listener console: python winshell.py -l [You're Host/IP] -p [You're Port] --console 1
+git clone https://github.com/EH30/winshell   
+cd winshell   
+pip install -r requirements.txt   
+Genrate exe file: python winshell.py -l [You're Host/IP] -p [You're Port] --name [You're file Name]   
+Listener console: python winshell.py -l [You're Host/IP] -p [You're Port] --console 1   
 
 
 
