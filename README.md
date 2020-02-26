@@ -37,6 +37,6 @@ Command Example: python winshell.py -l 127.0.0.1 -p 9999 --name shell
 ----------------------------------------------------------------------------------------------------   
 <img src="https://github.com/EH30/winshell/blob/master/winshell_exe_shell_example.JPG">   
 
-<img src="https://github.com/EH30/winshell/blob/master/winshells_console_example.JPG">   
+<img src="https://github.com/EH30/winshell/blob/master/winshell_exe_example.JPG">   
 
 
