@@ -11,12 +11,12 @@ class socs:
         #self.name = str(os.path.basename(__file__))
 
         try:
-            file_check = Path(str(Path.home())+"\\AppData\\Roaming\\Microsoft\Windows\\Start Menu\\Programs\\Startup\\".format(name))
+            file_check = Path(str(Path.home())+"\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\".format(name))
             if file_check.is_file():
                 pass
             else:
                 paths = str(Path.home())
-                path_start = "{0}\\AppData\\Roaming\\Microsoft\Windows\\Start Menu\\Programs\\Startup".format(paths)
+                path_start = "{0}\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup".format(paths)
                 self.opnr_copy(name, path_start)
         except Exception as error:
             pass
